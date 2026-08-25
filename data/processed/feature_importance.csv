@@ -1,0 +1,46 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.4762751211809459
+num__tenure,0.4328625668052164
+cat__InternetService_Fiber optic,0.23670174017438178
+cat__Contract_Two year,0.22877491409086564
+num__MonthlyCharges,0.21518512409677504
+num__TotalCharges,0.19134160526332186
+cat__PaymentMethod_Electronic check,0.17069192540718967
+cat__OnlineSecurity_No,0.16344538017435217
+cat__TechSupport_No,0.1594874284889567
+cat__MultipleLines_No,0.07506830167293696
+cat__StreamingTV_Yes,0.05556382808173009
+cat__PaperlessBilling_Yes,0.05502288068135226
+cat__StreamingMovies_Yes,0.05238254162708575
+cat__PaperlessBilling_No,0.0502701476573347
+cat__OnlineBackup_No,0.048989116049462926
+cat__InternetService_DSL,0.04815772499232742
+num__SeniorCitizen,0.044740523857627446
+cat__OnlineBackup_No internet service,0.04442786058510476
+cat__Dependents_No,0.042702387921710376
+cat__OnlineSecurity_Yes,0.03870567925899899
+cat__Dependents_Yes,0.03267603240641296
+cat__OnlineSecurity_No internet service,0.03214209459432283
+cat__MultipleLines_Yes,0.0311032863981626
+cat__StreamingMovies_No internet service,0.027115545222938936
+cat__PaymentMethod_Bank transfer (automatic),0.02501252211758992
+cat__PaymentMethod_Mailed check,0.02412006983102843
+cat__StreamingTV_No internet service,0.023998176003041615
+cat__TechSupport_No internet service,0.02388559711668844
+cat__OnlineBackup_Yes,0.02280215462093126
+cat__DeviceProtection_No internet service,0.022169140398773723
+cat__StreamingMovies_No,0.02177575146854425
+cat__TechSupport_Yes,0.021664364558776465
+cat__StreamingTV_No,0.01978814959153388
+cat__Partner_No,0.012116326061021768
+cat__Contract_One year,0.011246205694418211
+cat__DeviceProtection_No,0.011040162943852285
+cat__PaymentMethod_Credit card (automatic),0.010539303270489141
+cat__InternetService_No,0.010024186725399056
+cat__gender_Female,0.009750936500627173
+cat__gender_Male,0.009426075843737879
+cat__PhoneService_No,0.009345076809232638
+cat__Partner_Yes,0.009013344998733977
+cat__PhoneService_Yes,0.006254668135970627
+cat__MultipleLines_No phone service,0.005331413783870436
+cat__DeviceProtection_Yes,0.003884042770584236
